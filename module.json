@@ -14,10 +14,10 @@
     }
   ],
   "esmodules": [
-    "scripts/player-trades.js"
+    "scripts/main.js"
   ],
   "styles": [
-    "styles/player-trades.css"
+    "styles/main.css"
   ],
   "templates": [
     "templates/trade-window.html"
