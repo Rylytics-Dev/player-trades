@@ -1,0 +1,28 @@
+{
+  "id": "player-trades",
+  "title": "Player Trades",
+  "description": "Adds a button to player sheets that opens a trade interface for exchanging items between characters.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Rylytics-Dev",
+      "url": "https://github.com/Rylytics-Dev"
+    }
+  ],
+  "esmodules": [
+    "scripts/player-trades.js"
+  ],
+  "styles": [
+    "styles/player-trades.css"
+  ],
+  "templates": [
+    "templates/trade-window.html"
+  ],
+  "url": "https://github.com/Rylytics-Dev/player-trades",
+  "manifest": "https://raw.githubusercontent.com/Rylytics-Dev/player-trades/main/module.json",
+  "download": "https://github.com/Rylytics-Dev/player-trades/archive/refs/heads/main.zip"
+}
